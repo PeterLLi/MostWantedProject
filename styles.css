@@ -1,0 +1,23 @@
+#button{
+	background-color: #16f3ff;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	font-size: 16px;
+	background-repeat: no-repeat;
+	background-size: fill;
+}
+#buttonbody{
+	max-width: 25%;
+	margin: auto;
+	padding: 250px;
+	text-align: center;
+	background-image: url("database.jpg");
+	background-position: center;
+	background-size: fill;
+	background-repeat: no-repeat;
+}
